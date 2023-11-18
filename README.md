@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=jaewon's&fontAlign=50&fontAlignY=40&color=timeGradient)
 
 ## 📫 How to reach me:
-
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
   
  
 ## 👨🏻‍💻 Languages and Tools <br />
