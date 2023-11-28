@@ -2,7 +2,6 @@
 
 ## 📫 How to reach me:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jaewon_p)](https://velog.io/@jaewon_p)</br> 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaewon_p&tag=TIL)](https://github.com/parkjaewons/velog-readme-stats)
 
 
   
@@ -18,5 +17,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjaewons&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjaewons&show_icons=true&theme=radical) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaewon_p&tag=TIL)](https://github.com/parkjaewons/velog-readme-stats)
+
 
