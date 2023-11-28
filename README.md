@@ -1,7 +1,10 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=jaewon's&fontAlign=50&fontAlignY=40&color=timeGradient)
 
 ## 📫 How to reach me:
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jaewon_p)](https://velog.io/@jaewon_p) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jaewon_p)](https://velog.io/@jaewon_p)</br> 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=TIL)](https://github.com/parkjaewons/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+
 
   
  
