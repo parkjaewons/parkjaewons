@@ -17,6 +17,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjaewons&show_icons=true&theme=radical) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaewon_p&tag=TIL)]([https://velog.io/@jaewon_p](https://velog.io/@jaewon_p)https://velog.io/@jaewon_p)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjaewons&show_icons=true&theme=radical) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jaewon_p&tag=TIL)](https://velog.io/@jaewon_p)
