@@ -1,6 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=jaewon's&fontAlign=50&fontAlignY=40&color=timeGradient)
 
 ## 📫 How to reach me:
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jaewon_p)](https://velog.io/@jaewon_p) 
 
   
  
