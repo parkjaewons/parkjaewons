@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 Languages and Tools <br />
 
 #### 💡used as the main💡
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> 
 
 
 #### 💡used at least once💡
